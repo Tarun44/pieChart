@@ -1,0 +1,9 @@
+.chartContentDiv .pieLegendDiv{
+    color: #60717C;
+    font-size: 0.7em;
+    
+}
+.chartContentDiv .pielegendContainer{
+    margin-top:15%;
+    text-align: left;
+}
